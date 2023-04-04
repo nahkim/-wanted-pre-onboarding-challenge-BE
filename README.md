@@ -1,1 +1,1 @@
-# wanted-pre-onboarding-challenge-BE
+# wanted-pre-onboarding-challenge
